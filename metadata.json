@@ -1,0 +1,8 @@
+{
+  "name": "نور الفرقان",
+  "description": "تطبيق قرآني متكامل يجمع بين التلاوة العطرة بجودة استوديو فائقة، التفسير الميسر، وأوقات الصلاة بتصميم روحي عصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
